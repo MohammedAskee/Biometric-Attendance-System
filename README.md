@@ -12,22 +12,17 @@ Built with affordability and simplicity in mind, this embedded system enables:
 
 ### 💡 Key Features
 
-* 🧬 Biometric Authentication
+* 🧬 *Biometric Authentication*
 Scan fingerprints to mark attendance securely — no cards, no manual entry.
-
-* 🛡️ Admin Controls with Passcode
+* 🛡️ *Admin Controls with Passcode*
 Critical actions like user enrollment, deletion, and override are protected by a 4-digit password.
-
-* 🖥️ User Feedback on LCD
+* 🖥️ *User Feedback on LCD*
 Clear instructions, welcome messages, and status updates displayed on a 16x2 LCD screen.
-
-* 🔢 Keypad Interface
+* 🔢 *Keypad Interface*
 4x4 matrix keypad for entering passcodes and user IDs without needing a serial monitor.
-
-* ♻️ Override Functionality
+* ♻️ *Override Functionality*
 Replace existing users with new fingerprints, using the override mode.
-
-* 📟 Marquee Welcome Screen
+* 📟 *Marquee Welcome Screen*
 Animated intro message using a marquee-style scroll on the LCD.
 
 ### 🛠️ Technologies & Components Used
