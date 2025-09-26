@@ -1,4 +1,4 @@
-## 🔐 Fingerprint-Based Attendance System
+# 🔐 Fingerprint-Based Attendance System
 A secure and user-friendly biometric attendance system built using Arduino. This system uses fingerprint recognition, keypad input, and a passcode-protected interface to mark attendance, enroll users, and manage user data — all without the need for a computer interface.
 
 ### 🚀 Project Overview
@@ -52,7 +52,7 @@ Animated intro message using a marquee-style scroll on the LCD.
   * Press 'D' → Delete user by ID
   * Press 'O' → Override user (Delete + Re-enroll)
  
-🌐 Use Cases
+### 🌐 Use Cases
 
 * Schools and university attendance tracking
 * Secure check-ins at offices or labs
